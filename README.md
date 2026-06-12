@@ -48,7 +48,7 @@
 
 <div align="center">
 
-**Abdulrahim Obaid** — باني منظومة بارز من الصفر · HR-Tech & Data Analytics
+**Abdulrahim Obaid** — أخفّض تكاليف الموارد البشرية وأرفع أداء الموظفين بالأنظمة والبيانات · CPC · HRIS · DS
 
 [الصفحة الرئيسية](https://github.com/ab1ob) · [معرض الأعمال](https://github.com/ab1ob/portfolio)
 
