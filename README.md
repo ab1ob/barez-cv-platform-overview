@@ -1,50 +1,62 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A56,100:4A9EE8&height=170&section=header&text=BAREZ&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-<div dir="rtl">
+# Barez Individuals — barezz.com
 
-# بارز أفراد — barezz.com
-
-محرك ATS بنيته من الصفر يخبر المتقدم بمدى توافقه مع الوظيفة — **بنفس الطريقة التي تفرز بها الشركات المتقدمين**. خوارزمية تقيس التوافق وتعيد كتابة السيرة لترفعه، لا أداة ذكاء اصطناعي عامة. يدعم العربية والإنجليزية. هذا الريبو يعرّف بالمنتج؛ الكود المصدري خاص.
+An **ATS engine built from scratch** that tells an applicant how well they match a job — **the same way companies screen candidates** — then rewrites the CV to raise the match. A rules-based algorithm, not a general AI tool. Supports Arabic and English. *This repo introduces the product; source is private.*
 
 <div align="center">
 <a href="https://barezz.com"><img src="assets/barezz-home.png" alt="barezz.com" width="90%"/></a>
 </div>
 
-## لماذا وُجدت
+## Why it exists
 
-أنظمة فرز المتقدمين (ATS) تُسقط سيراً ذاتية جيدة لأسباب شكلية لا يعرفها صاحبها، وأدوات السير الذاتية العالمية لا تتعامل مع العربية ولا تفهم سوق العمل الخليجي. بارز بُنيت لسد هذه الفجوة من الداخل: محرك خوارزمي يراجع السيرة، يكشف ما يُسقطها لدى أنظمة الفرز، ويعيد كتابتها بما يرفع توافقها مع الوظيفة المستهدفة.
+Applicant Tracking Systems (ATS) drop good CVs for formatting reasons the owner never sees, and global CV tools don't handle Arabic or understand the Gulf job market. Barez closes that gap from the inside: an engine that reviews the CV, surfaces what gets it filtered out, and rewrites it to raise its match with the target role.
 
-## ما يقدمه المحرك
+## What the engine does
 
 | | |
 |---|---|
-| مراجعة بالخوارزمية | فحص منظّم للسيرة وفق قواعد محدّدة يحدد نقاط الضعف ويقترح تحسينات معيّنة |
-| إعادة كتابة | إعادة صياغة ترفع التوافق مع الوظيفة المستهدفة وأنظمة الفرز |
-| محرك مهارات ومعايير | قاعدة مهارات ومعايير فحص بُنيت داخل المحرك، تدعم العربية والإنجليزية |
-| أدوات ودليل مهني | أدوات مساندة للباحثين عن عمل بالعربية والإنجليزية |
+| **Algorithmic review** | Structured rule-based scan that pinpoints weaknesses and gives specific fixes |
+| **Rewrite** | Reformulation that raises the match with the target role and ATS filters |
+| **Skills & criteria engine** | A skills/criteria base built into the engine — Arabic and English |
+| **Tools & career guide** | Supporting tools for job seekers |
 
-تعمل المنصة باشتراكات ودفع إلكتروني كامل، وتخدم عملاء فعليين: [barezz.com](https://barezz.com)
+Live, with full subscriptions and online payments, serving real customers: [barezz.com](https://barezz.com)
 
-## محرك واحد، وجهان للسوق
+## One engine, both sides of the market
 
-نفس المحرك يعمل على طرفَي عملية التوظيف:
+The same engine works on both ends of hiring:
 
-- **بارز أفراد** — يرى المتقدمُ درجةَ توافقه مع الوظيفة قبل أن يتقدّم، فيصلح سيرته.
-- **[بارز أعمال](https://github.com/ab1ob/barez-erp-overview)** — تفرز الشركةُ متقدميها وترتّبهم بنفس المحرك داخل وحدة التوظيف.
+- **Barez Individuals** — the applicant sees their match score *before* applying, and fixes the CV.
+- **[Barez Business](https://github.com/ab1ob/barez-erp-overview)** — the company screens and ranks its applicants with the same engine inside the recruitment module.
 
-الطرف الذي يَفرِز والطرف الذي يُفرَز — كلاهما يستخدم المنطق نفسه.
+The side doing the screening and the side being screened — both run on the same logic.
 
-## دوري
+## My role
 
-بنيتُ المنتج ومحرّك الـATS فيه **من الصفر** — الخوارزمية وقاعدة المهارات والمعايير، تصميماً وتطويراً وتشغيلاً. محرك مبني بالقواعد، لا اعتماد على نموذج ذكاء اصطناعي عام.
+I built the product **and its ATS engine from scratch** — the algorithm, the skills and criteria base, design, development, and operation. A rules-based engine, not reliant on a general AI model.
 
 ---
 
-<div align="center">
+<details>
+<summary><b>🇸🇦 بالعربية</b></summary>
 
-[الصفحة الرئيسية](https://github.com/ab1ob) · [معرض الأعمال](https://github.com/ab1ob/portfolio)
+<div dir="rtl">
+
+**بارز أفراد** محرك ATS بنيته من الصفر يخبر المتقدم بمدى توافقه مع الوظيفة بنفس طريقة فرز الشركات، ثم يعيد كتابة سيرته لترفعه — خوارزمية مبنية بالقواعد لا أداة ذكاء اصطناعي عامة، تدعم العربية والإنجليزية.
+
+**لماذا وُجد:** أنظمة الفرز (ATS) تُسقط سيراً جيدة لأسباب شكلية لا يعرفها صاحبها، والأدوات العالمية لا تفهم العربية ولا سوق العمل الخليجي.
+
+**محرك واحد، وجهان للسوق:** في بارز أفراد يرى المتقدمُ درجته قبل أن يتقدّم، وفي [بارز أعمال](https://github.com/ab1ob/barez-erp-overview) تفرز الشركةُ متقدميها بنفس المحرك.
+
+**دوري:** بنيتُ المنتج والمحرك من الصفر — الخوارزمية وقاعدة المهارات والمعايير، تصميماً وتطويراً وتشغيلاً.
 
 </div>
+</details>
+
+<div align="center">
+
+[Home](https://github.com/ab1ob) · [Portfolio](https://github.com/ab1ob/portfolio)
 
 </div>
 
